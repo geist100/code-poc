@@ -25,3 +25,7 @@ Used libraries:
 Screenshots:
 
 ![Alt text](/screenshots/Shot1.png)
+
+-----------------------------------
+
+![Alt text](/screenshots/Shot2.png)
