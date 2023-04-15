@@ -21,6 +21,9 @@ Used libraries:
 2. nextjs
 3. primereact
 4. webpack
+5. axios
+6. react lazy
+
 
 Screenshots:
 
