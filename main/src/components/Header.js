@@ -42,20 +42,15 @@ const Header = () => {
                             </svg>
                         </div>
                         <ul className="flex flex-col items-center justify-between min-h-[250px]">
-                            <li className="border-b border-gray-400 my-8 uppercase">
-                                <a href="/about">Pasaj</a>
-                            </li>
-                            <li className="border-b border-gray-400 my-8 uppercase">
-                                <a href="/portfolio">Paketler</a>
-                            </li>
-                            <li className="border-b border-gray-400 my-8 uppercase">
-                                <a href="/contact">Dijital Servisler</a>
+                            <li>
+                                <a href="/">Anasayfa</a>
                             </li>
                             <li>
                                 <a href="/contact">Ev İnterneti ve TV</a>
                             </li>
+                            <MenuItems > </MenuItems>
                             <li>
-                                <a href="/contact">Kampanyalar</a>
+                                <a href="/products">Ürünler</a>
                             </li>
                             <li>
                                 <a href="/contact">Hızlı İşlemler</a>
